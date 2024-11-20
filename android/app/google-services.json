@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "794371326813",
+    "firebase_url": "https://storagetest-aeca0-default-rtdb.firebaseio.com",
+    "project_id": "storagetest-aeca0",
+    "storage_bucket": "storagetest-aeca0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794371326813:android:5f1fd6c5e0709ea5b6deb4",
+        "android_client_info": {
+          "package_name": "com.example.storagetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjbgDjX1qZVQXaLceSL5tiTtlfLL4yxnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
